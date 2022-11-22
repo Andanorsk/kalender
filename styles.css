@@ -1,0 +1,25 @@
+.top{
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+.kalendervindu{
+    display: inline-flex;
+    border: 1px solid black;
+    box-shadow: 3 3 9;
+    width: 150px;
+    height:150px;
+    margin-left: 10px;
+}
+.gave1{
+    background-image: url("");
+}
+.gave2{
+    background-image: url("");
+}
+.gift{
+    background-image: url("Dabloons.jpg");
+    background-size: contain;
+    
+}
